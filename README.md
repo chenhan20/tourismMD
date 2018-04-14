@@ -1,38 +1,38 @@
 # 旅遊準備
 
 ## 日期
-*4/25~4/29*
+*4/21~4/26*
 ## 注意事項
-*
-*
-*
-*
-*
-*
+* 出發前先把機車螺絲都檢查過
+* 衣物確認
+* 路線確認
+* 天氣確認
+* 預計花費估算
+* 
 
 ## 準備
-- [ ]  
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
+- [x] 大後背包
+- [ ] 旅平險 
 
 
-## 行程規劃
+## 形成規劃
 
-```flow
-st=>start: Start:>
-io=>inputoutput: verification
-op=>operation: Your Operation
-cond=>condition: Yssssses or No?
-sub=>subroutine: Your Subroutine
-e=>end
+**住宿**  
+4/21 住宜蘭  
+4/22 住花蓮  
+4/23 預計是住花蓮(可調整)  
+4/24 預計是住花蓮(可調整)  
+4/25 預計是住花蓮(可調整)  
 
-st->io->op->cond
-cond(yes)->e
-cond(no)->sub->io
-```
+**大約行程**  
+4/21 七點出發 經過新店 騎台九線一路可往北宜公路 直達宜蘭 預計中午抵達
+4/22 XX點從宜蘭出發 第一個目的地XX
+4/23 尚未確定 皆可修改
+
+
+預計 
+太魯閣會排一天 晚上五點前下山   
+
 
 ## 住宿
 
@@ -41,3 +41,9 @@ cond(no)->sub->io
 |  aaaaaa  |         |    4/25    |   $5   |
 | aaaaaa    |         |   4/25     |   $12  |
 | aaaaaa    |         |    4/25    |  $234  |
+
+### 口袋名單
+* [宜蘭-宜蘭市(床位有門,六人一間,$587)](https://www.airbnb.com.tw/rooms/19800743?adults=1&children=0&infants=0&check_in=2018-04-21&check_out=2018-04-22&s=DWReeVSQ)
+* [宜蘭-宜蘭市中心(車站旁,$499,六人一間)](https://www.airbnb.com.tw/rooms/18054062)
+* [宜蘭-羅東鎮(羅東車站附近,$675,三人一間)](https://www.airbnb.com.tw/rooms/15525449?adults=1&children=0&infants=0&check_in=2018-04-21&check_out=2018-04-22&s=DWReeVSQ)
+* [花蓮-($440,單人房附早餐)](https://www.airbnb.com.tw/rooms/17102927?adults=1&children=0&infants=0&check_in=2018-04-22&check_out=2018-04-23&s=idhUmnzt)
